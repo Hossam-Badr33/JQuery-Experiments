@@ -1,0 +1,4 @@
+li:nth-of-type(2) {
+    background-color: blue;
+    width: 90px;
+}

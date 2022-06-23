@@ -1,0 +1,6 @@
+.open,
+.close {
+  visibility: hidden;
+  position: absolute;
+  left: 160px;
+}

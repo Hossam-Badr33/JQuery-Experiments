@@ -1,0 +1,19 @@
+.myDiv {
+  background-color: blueviolet;
+  color: #ffa;
+  width: 200px;
+  height: 100px;
+  text-align: center;
+  line-height: 100px;
+  font-weight: 600;
+}
+/*to center element in middle of html width & height 50% by css do this:*/
+/*
+.myDiv {
+  position: absolute;
+  left: 50%;
+  margin-left: -100px;
+  top: 50%;
+  margin-top: -50px;
+}
+*/
