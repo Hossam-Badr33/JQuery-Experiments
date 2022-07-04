@@ -1,0 +1,12 @@
+.show {
+  width: 400px;
+  height: 200px;
+  text-align: center;
+  margin: 50px auto;
+  color: rgb(200, 150, 20);
+  font-size: 25px;
+  font-weight: bold;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  background-color: blue;
+  cursor: pointer;
+}
