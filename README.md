@@ -3,7 +3,7 @@
 # JQuery Experiments
 
 > Description the project.
-> Explain Flex-box tutorials basics and examples
+> more applications and some ideas with jQuery
 
 ## Built With
 
