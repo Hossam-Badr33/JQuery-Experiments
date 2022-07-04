@@ -1,0 +1,27 @@
+.main {
+  font-size: 20px;
+  font-weight: bold;
+  text-align: center;
+  background-color: aquamarine;
+}
+ul {
+  list-style: none;
+}
+ul * {
+  width: 20px;
+  height: 20px;
+  display: inline-block;
+  cursor: pointer;
+}
+.color1 {
+  background-color: crimson;
+}
+.color2 {
+  background-color: blue;
+}
+.color3 {
+  background-color: blueviolet;
+}
+.color4 {
+  background-color: greenyellow;
+}

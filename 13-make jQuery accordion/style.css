@@ -1,0 +1,25 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.main {
+  width: 400px;
+  height: 500px;
+  margin: 50px auto;
+}
+h3 {
+  background-color: black;
+  color: antiquewhite;
+  text-align: center;
+  padding: 10px;
+  cursor: pointer;
+}
+p {
+  background-color: brown;
+  color: coral;
+  padding: 5px;
+  height: 100px;
+}
+p:not(:first-of-type) {
+    display: none;
+}
